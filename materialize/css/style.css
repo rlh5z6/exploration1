@@ -11,6 +11,9 @@ nav .brand-logo {
   color: #444;
 }
 
+h4 {
+    color: black;
+}
 p {
   line-height: 2rem;
     color: black;
